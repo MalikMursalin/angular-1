@@ -1,6 +1,7 @@
 # AngularTraining
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+and Node version 18.16.0
 
 ## Development server
 
